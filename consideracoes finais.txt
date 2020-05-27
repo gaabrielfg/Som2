@@ -1,0 +1,9 @@
+O trabalho foi baseado em um trabalho ja feito, estou disponibilizando o link a seguir.
+Para trabalhos futuros, ainda em cima deste tópico poderia ser melhorado a parte gráfica do meu projeto, que creio que ficou devendo.
+ 
+Outra fonte de estudo para entender o conteúdo foram os vídeos da UNIVESP
+sobre paginacao, no qual estou deixando o link embaixo também.
+
+https://github.com/IsaiasFernandes/Simulador-de-Alocacao/blob/master/Simulador_GM.c
+
+https://www.youtube.com/watch?v=4EaBN98dk40
